@@ -1,0 +1,9 @@
+*~
+__pycache__
+.coverage
+calchas_datamodel.egg-info/
+build/
+dist/
+.idea/
+
+htmlcov/
